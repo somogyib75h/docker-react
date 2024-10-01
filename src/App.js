@@ -6,8 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p> Is it working? </p>  
-        <p> YES!!! </p>          
+        <p> This is working from the Feature branch!!! </p>          
         <a
           className="App-link"
           href="https://reactjs.org"
